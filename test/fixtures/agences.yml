@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  nom: MyString
+  principalgroupe_id: 
+  sousgroupe_id: 
+
+two:
+  nom: MyString
+  principalgroupe_id: 
+  sousgroupe_id: 
